@@ -3,13 +3,15 @@
 CaptainBluBlu/CaptainBluBlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h1 align="center"><center>Hello I am Glenn :wave:</h1>
+
 <h3 align="center">Year 2 Computer Science Student in Taylor's University Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CaptainBluBlu&label=Profile%20views&color=0e75b6&style=flat" alt="khorzhenwin" /> </p>
+  
+- 😄 Phang Zhen? That's my name too
 
-- 👋 Hi, I’m Glenn Lim Phang Zhen. Most people just call me Glenn.
-
-- 🔭 I’m currently working on [my personal website](limphangzhen.me)
+- 🔭 I’m currently working on [my personal website](https://limphangzhen.me)
 
 - 🌱 Developer / Data Analyst
 
