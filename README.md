@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 - 🌱 Developer / Data Analyst
 
 - 💻 Used to be in the field of software engineering but transition to data science and artificial intelligence to learn more nerd stuff
+  
+- 🤓 Studied Dimploma in ICT (software engineering) in APU, Studying CS specialism in AI and DS in Taylor's University
 
 - 💞️ I’m planning to learn up on WebAudioContext Api
 
