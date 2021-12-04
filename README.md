@@ -3,13 +3,15 @@
 CaptainBluBlu/CaptainBluBlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3 align="center">A passionate developer from Malaysia</h3>
+<h3 align="center">Computer Science Student in Taylor's University Malaysia</h3>
 
 - 👋 Hi, I’m Glenn Lim Phang Zhen. Most people just call me Glenn.
 
 - 🔭 I’m currently working on [my personal website](limphangzhen.me)
 
-- 🌱 I’m currently learning **NextJs framework with React.**
+- 🌱 Developer / Data Analyst
+
+- 💻 Used to be in the field of software engineering but transition to data science and artificial intelligence to learn more nerd stuff
 
 - 💞️ I’m planning to learn up on WebAudioContext Api
 
