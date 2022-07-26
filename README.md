@@ -3,7 +3,7 @@
 CaptainBluBlu/CaptainBluBlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center"><center>Hello I am Glenn :wave:</h1>
+<h1 align="center"><center>Heyy I am Glenn :wave:</h1>
 
 <h3 align="center">Year 2 Computer Science Student in Taylor's University Malaysia</h3>
 
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💞️ I’m planning to learn up on WebAudioContext Api
 
-- 📫 How to reach me **glennlimphangzhen@gmail.com**
+- 📫 Reach me at : **glennlimphangzhen@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
