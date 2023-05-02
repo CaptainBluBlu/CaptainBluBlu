@@ -9,13 +9,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CaptainBluBlu&label=Profile%20views&color=0e75b6&style=flat" alt="khorzhenwin" /> </p>
   
-- 😄 Phang Zhen? That's my name too
-
-- 🔭 I’m currently working on [my personal website](https://limphangzhen.me)
+- 😄 My name is Lim Phang Zhen
 
 - 🌱 Developer / Data Analyst
 
-- 💻 Used to be in the field of software engineering but transition to data science and artificial intelligence to learn more nerd stuff
+- 💻 Used to be in the field of software engineering but transition to data science and artificial intelligence to learn more about data and how it impacts the world
   
 - 🤓 Studied Dimploma in ICT (software engineering) in APU, Studying CS specialism in AI and DS in Taylor's University
 
