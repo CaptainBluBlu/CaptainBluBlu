@@ -9,15 +9,15 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CaptainBluBlu&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-captainblublu" /> </p>
   
-- 😄 My name is Lim Phang Zhen
+- 😄 Lim Phang Zhen or you can call me Glenn
 
 - 🌱 Developer / Data Analyst
 
-- 💻 Used to be in the field of software engineering but transition to data science and artificial intelligence to learn more about data and how it impacts the world
+- 💻 An experienced student of both Software Engineering and Data Science. Buding the future of Architecture + Data
   
 - 🤓 Studied Dimploma in ICT (software engineering) in APU, Studying CS specialism in AI and DS in Taylor's University
 
-- 💞️ I’m planning to learn up on WebAudioContext Api
+- 💞️ I’m planning to new technologies such as WebAssembly, and industry revolutionising concepts like data mesh
 
 - 📫 Reach me at : **glennlimphangzhen@gmail.com**
 
