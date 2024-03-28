@@ -5,19 +5,19 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center"><center>Heyy I am Glenn :wave:</h1>
 
-<h3 align="center">Year 3 Computer Science Student in Taylor's University Malaysia</h3>
+<h3 align="center">Graduate of Data Science and Artificial Inteligence from Taylor's Univeristy Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CaptainBluBlu&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-captainblublu" /> </p>
   
 - 😄 Lim Phang Zhen or you can call me Glenn
 
-- 🌱 Developer / Data Analyst
+- 🌱 Currently working as a junior IT project coordinator in OSK Group
 
-- 💻 An experienced student of both Software Engineering and Data Science. Buding the future of Architecture + Data
+- 💻 I am interested in finding ways of making data more impactful to businesses and optimising business processes
   
-- 🤓 Studied Dimploma in ICT (software engineering) in APU, Studying CS specialism in AI and DS in Taylor's University
+- 🤓 I used to watch a lot of K-dramas but now im mostly reading books 
 
-- 💞️ I’m planning to new technologies such as WebAssembly, and industry revolutionising concepts like data mesh
+- 💞️ Currently honing my project management skills in my workplace during the day on development and data projects in the night
 
 - 📫 Reach me at : **glennlimphangzhen@gmail.com**
 
