@@ -58,7 +58,7 @@ Currently working as a **Junior IT Project Coordinator at OSK Group**, I combine
 
 ## 📫 Contact Me
 - **Email:** glennlimphangzhen@gmail.com  
-- **LinkedIn:** [Your LinkedIn URL]  
+- **LinkedIn:** [[Glenn Lim Phang Zhen](https://www.linkedin.com/in/glenn-lim-phang-zhen)]  
 
 ---
 ⭐️ *“Building technology that makes businesses smarter and lives easier.”*
