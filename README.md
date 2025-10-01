@@ -49,7 +49,6 @@ Design intelligent systems that optimize business processes — and eventually l
 ## 📦 Pinned Projects
 <!-- Replace repo names with your actual repositories -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captainblublu&repo=violence-detection&theme=radical)](https://github.com/captainblublu/violence-detection)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captainblublu&repo=fullstack-app&theme=radical)](https://github.com/captainblublu/fullstack-app)
 
 ---
 
