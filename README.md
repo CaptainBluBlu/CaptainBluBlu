@@ -71,8 +71,5 @@ Design intelligent systems that optimize business processes — and eventually l
 
 ## 📫 Contact
 - **Email:** glennlimphangzhen@gmail.com
-- **LinkedIn:** [Add your LinkedIn URL]
+- **LinkedIn:** [Glenn Lim Phang Zhen](https://www.linkedin.com/in/glenn-lim-phang-zhen)
 
----
-
-> ⭐️ _“Building technology that makes businesses smarter and lives easier.”_
