@@ -42,15 +42,8 @@ Design intelligent systems that optimize business processes — and eventually l
 - Built a machine learning model concept for real-time violence detection in video streams.
 - Focus: turning research into deployable, business-relevant solutions.
 
-> _Ask me about the data strategy, labeling pipeline, and model evaluation approach I used._
-
 ---
 
-## 📦 Pinned Projects
-<!-- Replace repo names with your actual repositories -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=captainblublu&repo=violence-detection&theme=radical)](https://github.com/captainblublu/violence-detection)
-
----
 
 ## 📈 GitHub Stats
 ![Glenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=captainblublu&show_icons=true&theme=radical)
